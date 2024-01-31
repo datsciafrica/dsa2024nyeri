@@ -1,0 +1,42 @@
+---
+image: Workshop_2022.jpg
+color: "#D33"
+layout: post
+title:  "Workshop"
+date:   2024-01-31 00:00:00
+isStaticPost: false
+---
+This year’s DSA event will be in-person, starting on the 6<sup>th</sup> and 7<sup>th</sup> June hosted by the Dedan Kimathi University of Technology in Nyeri. We believe that the DSA community of both past and new participants can still benefit greatly from the event.
+
+The DSA Nyeri event will consist of oral presentations of data science applications from academia and industry and interactive panel discussions.
+
+<!--The theme for the summer school is <b>Harnessing Data Science for Africa’s Socio-Economic Development</b>. We want to improve the community engagement in Data Science in Africa, by empowering communities and researchers to consider their role in responsible AI practices in Africa. We strongly encourage the participation of data science communities from across the continent.-->
+
+<!--We are also using this platform as a call for abstracts for the workshop. Abstracts should cover relevant topics including but not limited to:-->
+
+<!--
+* Data Science for the Sustainable Development Goals
+* Healthcare
+* Agriculture
+* Education 
+* Wildlife conservation
+* Disaster response
+* Geo-spatial modeling
+* Telecommunications data modeling
+* Economic monitoring
+* New data science and machine learning methods
+* Language modeling
+-->
+
+
+
+
+<!--The workshop is scheduled for 11<sup>th</sup> and 12<sup>th</sup> June. <b><a target="_blank" href="https://bit.ly/dsa2023workshop">Registration is open</a></b>-->
+
+<!--The deadline for submission of abstracts is March 31<sup>st</sup>, 2023-->
+
+
+__Additional info will be added here__
+
+Any questions?
+Email organizers at [info@datascienceafrica.org](mailto:info@datascienceafrica.org)
