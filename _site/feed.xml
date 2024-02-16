@@ -11,11 +11,35 @@
         <description>&lt;p&gt;In the tradition of previous Data Science Africa events, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers, and professionals working with huge amounts of data or unique datasets. 
 The DSA 2024 Nyeri Summer School will be hosted by the &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.dkut.ac.ke/&quot;&gt;Dedan Kimathi University of Technology&lt;/a&gt;&lt;/b&gt; in Nyeri from 3&lt;sup&gt;rd&lt;/sup&gt; - 5&lt;sup&gt;th&lt;/sup&gt; of June 2024. The summer school will also involve end-to-end tutorial sessions from professionals walking the participants through introductory and advanced lectures in data science and machine learning as well as moderate to advanced practical and tutorial sessions where participants will get their hands wet wrangling and munging datasets and applying cutting edge machine learning techniques to derive inference from the data.&lt;/p&gt;
 
-&lt;!--To this end, we require that participants are well versed in the basics of the technologies and languages that will be used in the summer school. Particularly we want to make sure participants have sufficient base skills in Python programming, Data Science, and Machine learning. You are required to &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://bit.ly/dsa2023notebook&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/b&gt; the corresponding notebook complete the notebook and then fill out the registration form below that requires you to upload the ZIP file of the completed notebook. Register by submitting your Notebooks &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://forms.gle/oSEkziGcsBJ3FZm6A&quot;&gt;here&lt;/a&gt;&lt;/b&gt;--&gt;
+&lt;p&gt;To this end, we require that participants are well versed in the basics of the technologies and languages that will be used in the summer school. Particularly we want to make sure participants have sufficient base skills in Python programming, Data Science, and Machine learning. Below are the steps to follow when registering.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Participants are expected to &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://drive.google.com/file/d/1KNBTelZawLmlidTdxmnyB6YxWEw10d1O/view?usp=drive_link&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/b&gt;, extract, and run the notebook. The notebook contains Python programming questions and hidden test cases.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Upon the completion of the questions within the notebook, the participant should click on the download in the last notebook cell. By clicking on this cell, a zipped folder appears in the form DSA2024Test_XXXXX.zip. The characters after the DSA2024Test form the ZIP identification number for each submission. For example, if the downloaded zip is DSA2024Test_&lt;b&gt;2024_02_15_T15_07_16_768034&lt;/b&gt;, then the Zip ID for the submission is &lt;b&gt;2024_02_15_T15_07_16_768034&lt;/b&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The participant should then proceed to fill out the summer school form &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://forms.gle/beYzXaEKwQ1qCvkx8&quot;&gt;here&lt;/a&gt;&lt;/b&gt; and enter the ZIP identification generated in step 2, along with other information.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!--
+&lt;ol&gt;
+    &lt;li&gt;Participants are expected to download, extract, and run the notebook. The notebook contains Python programming questions and hidden test cases.&lt;/li&gt;
+    &lt;li&gt;Upon the completion of the questions within the notebook, the participant should click on the download in the last notebook cell. By clicking on this cell, a zipped folder appears in the form DSA2024Test_XXXXX.zip. The characters after the DSA2024Test form the ZIP identification number for each submission. For example, if the downloaded zip is DSA2024Test_2024_02_15_T15_07_16_768034, then the Zip ID for the submission is 2024_02_15_T15_07_16_768034.&lt;/li&gt;
+    &lt;li&gt;The participant should then proceed to fill out the summer school form and enter the ZIP identification generated in step 2, along with other information.&lt;/li&gt;
+&lt;/ol&gt;
+--&gt;
+
+&lt;!--
+You are required to &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://bit.ly/dsa2023notebook&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/b&gt; the corresponding notebook complete the notebook and then fill out the registration form below that requires you to upload the ZIP file of the completed notebook. Register by submitting your Notebooks &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://forms.gle/oSEkziGcsBJ3FZm6A&quot;&gt;here&lt;/a&gt;&lt;/b&gt;
+--&gt;
 
 &lt;!--For more info, contact us at [dsakampala2020@gmail.com](mailto:dsakampala2020@gmail.com)--&gt;
 </description>
-        <pubDate>Wed, 31 Jan 2024 03:00:00 +0300</pubDate>
+        <pubDate>Fri, 16 Feb 2024 03:00:00 +0300</pubDate>
         <link>http://localhost:4000/dsa2024nyeri/blog/summer-school</link>
         <guid isPermaLink="true">http://localhost:4000/dsa2024nyeri/blog/summer-school</guid>
       </item>
