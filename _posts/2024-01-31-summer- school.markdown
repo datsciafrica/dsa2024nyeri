@@ -12,7 +12,7 @@ The DSA 2024 Nyeri Summer School will be hosted by the <b><a target="_blank" hre
 
 To this end, we require that participants are well versed in the basics of the technologies and languages that will be used in the summer school. Particularly we want to make sure participants have sufficient base skills in Python programming, Data Science, and Machine learning. Below are the steps to follow when registering.
 
-1. Participants are expected to <b><a target="_blank" href="https://drive.google.com/file/d/1KNBTelZawLmlidTdxmnyB6YxWEw10d1O/view?usp=drive_link">DOWNLOAD</a></b>, extract, and run the notebook. The notebook contains Python programming questions and hidden test cases.
+1. Participants are expected to <b><a target="_blank" href="#">DOWNLOAD</a></b>, extract, and run the notebook. The notebook contains Python programming questions and hidden test cases.
 
 2. Upon the completion of the questions within the notebook, the participant should click on the download in the last notebook cell. By clicking on this cell, a zipped folder appears in the form DSA2024Test_XXXXX.zip. The characters after the DSA2024Test form the ZIP identification number for each submission. For example, if the downloaded zip is DSA2024Test_<b>2024_02_15_T15_07_16_768034</b>, then the Zip ID for the submission is <b>2024_02_15_T15_07_16_768034</b>.
 
