@@ -17,7 +17,7 @@ To this end, we require that participants are well versed in the basics of the t
 
 2. Upon the completion of the questions within the notebook, the participant should click on the download in the last notebook cell. By clicking on this cell, a zipped folder appears in the form DSA2024Test_XXXXX.zip. The characters after the DSA2024Test form the ZIP identification number for each submission. For example, if the downloaded zip is DSA2024Test_<b>2024_02_15_T15_07_16_768034</b>, then the Zip ID for the submission is <b>2024_02_15_T15_07_16_768034</b>.
 
-3. The participant should then proceed to fill out the summer school form <b><a target="_blank" href="https://forms.gle/beYzXaEKwQ1qCvkx8">here</a></b> and enter the ZIP identification generated in step 2, along with other information.
+3. The participant should then proceed to fill out the summer school form <b><a target="_blank" href="https://forms.gle/beYzXaEKwQ1qCvkx8">here</a></b> and enter the ZIP identification generated in step 2, along with other information. <b>Deadline</b> 31<sup>st</sup> March 2024.
 
 <!--
 <ol>
