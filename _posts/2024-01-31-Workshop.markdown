@@ -28,7 +28,7 @@ Extended abstracts can include applied research, position papers, new methods, r
 
 <b>Submission</b>
 
-Use the provided abstract templates for Word [add link] and Latex[add link]. Abstracts should be submitted through the following OpenReview link: <a href="https://openreview.net/group?id=datascienceafrica.org/DSA/2024/Workshop">https://openreview.net/group?id=datascienceafrica.org/DSA/2024/Workshop</a> 
+Use the provided abstract templates for Word <a href="https://drive.google.com/drive/folders/1ECaeXwM2yvsjLrt2MtQZsoKdiaE_zOlg?usp=drive_link">here</a> and Latex <a href="https://drive.google.com/drive/folders/18UiwJjpjL-pYdCGcGvcJaWsiBvbOq-44?usp=drive_link">here</a>. Abstracts should be submitted through the following OpenReview link: <a href="https://openreview.net/group?id=datascienceafrica.org/DSA/2024/Workshop">https://openreview.net/group?id=datascienceafrica.org/DSA/2024/Workshop</a> 
 
 Abstracts should be no longer than 3 pages including references.  The abstract submission deadline is Sunday April 7, 2024.
 
