@@ -39,16 +39,33 @@ You are required to &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://
 
 &lt;!--For more info, contact us at [dsakampala2020@gmail.com](mailto:dsakampala2020@gmail.com)--&gt;
 </description>
-        <pubDate>Fri, 16 Feb 2024 03:00:00 +0300</pubDate>
+        <pubDate>Fri, 16 Feb 2024 09:00:00 +0900</pubDate>
         <link>http://localhost:4000/dsa2024nyeri/blog/summer-school</link>
         <guid isPermaLink="true">http://localhost:4000/dsa2024nyeri/blog/summer-school</guid>
       </item>
     
       <item>
         <title>Workshop</title>
-        <description>&lt;p&gt;This year’s DSA event will be in-person, starting on the 6&lt;sup&gt;th&lt;/sup&gt; and 7&lt;sup&gt;th&lt;/sup&gt; June hosted by the Dedan Kimathi University of Technology in Nyeri. We believe that the DSA community of both past and new participants can still benefit greatly from the event.&lt;/p&gt;
+        <description>&lt;!--
+This year’s DSA event will be in-person, starting on the 6&lt;sup&gt;th&lt;/sup&gt; and 7&lt;sup&gt;th&lt;/sup&gt; June hosted by the Dedan Kimathi University of Technology in Nyeri. We believe that the DSA community of both past and new participants can still benefit greatly from the event.--&gt;
 
-&lt;p&gt;The DSA Nyeri event will consist of oral presentations of data science applications from academia and industry and interactive panel discussions.&lt;/p&gt;
+&lt;!--The DSA Nyeri event will consist of oral presentations of data science applications from academia and industry and interactive panel discussions.--&gt;
+
+&lt;p&gt;&lt;b&gt;Extended Abstracts&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Karibu! We invite you to submit an extended abstract for the Data Science Africa (DSA) 2024 workshop that will be held in Nyeri, Kenya from June 6th to June 7th. The abstracts should focus on African challenges or methods that are relevant to addressing problems in Africa. At least one African researcher should be a co-author on submitted abstracts and authors should be prepared to present their research during the workshop.&lt;/p&gt;
+
+&lt;p&gt;We encourage participants who have applied to the summer school to consider sharing their research. We also encourage the participation of women and others from communities that are usually underrepresented in data science.&lt;/p&gt;
+
+&lt;p&gt;Extended abstracts can include applied research, position papers, new methods, review/survey studies and product demonstrations. Abstracts can cover any of the following and related topics: machine learning, artificial intelligence, robotics, data mining, natural language processing, etc. We are also interested in applications of data science methods to health, climate, agriculture, politics, and arts.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Submission&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the provided abstract templates for Word [add link] and Latex[add link]. Abstracts should be submitted through the following OpenReview link: &lt;a href=&quot;https://openreview.net/group?id=datascienceafrica.org/DSA/2024/Workshop&quot;&gt;https://openreview.net/group?id=datascienceafrica.org/DSA/2024/Workshop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Abstracts should be no longer than 3 pages including references.  The abstract submission deadline is Sunday April 7, 2024.&lt;/p&gt;
+
+&lt;p&gt;If possible, use your institutional email when creating your OpenReview account to avoid delays. New profiles that use institutional emails are approved immediately, while approval for those without institutional emails can take up to 2 weeks.&lt;/p&gt;
 
 &lt;!--The theme for the summer school is &lt;b&gt;Harnessing Data Science for Africa’s Socio-Economic Development&lt;/b&gt;. We want to improve the community engagement in Data Science in Africa, by empowering communities and researchers to consider their role in responsible AI practices in Africa. We strongly encourage the participation of data science communities from across the continent.--&gt;
 
@@ -77,7 +94,7 @@ You are required to &lt;b&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://
 &lt;p&gt;Any questions?
 Email organizers at &lt;a href=&quot;mailto:info@datascienceafrica.org&quot;&gt;info@datascienceafrica.org&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 31 Jan 2024 03:00:00 +0300</pubDate>
+        <pubDate>Wed, 31 Jan 2024 09:00:00 +0900</pubDate>
         <link>http://localhost:4000/dsa2024nyeri/blog/Workshop</link>
         <guid isPermaLink="true">http://localhost:4000/dsa2024nyeri/blog/Workshop</guid>
       </item>
